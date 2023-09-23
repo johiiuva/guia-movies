@@ -1,8 +1,6 @@
 # PROYECTO DE GUIA DE PELICULAS
 INTEGRANTES:
-NATALIA
 JAIRO: 33 anios, Hurlingham
 NATALIA: 48 años, Remedios de Escalada, Lanus
-JAIRO
 LAUTARO
 JOHANA
