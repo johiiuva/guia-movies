@@ -3,4 +3,4 @@ INTEGRANTES:
 NATALIA
 JAIRO
 LAUTARO
-JOHANA
+JOHANA- Edad: 29 - Ciudad : Trenque Lauquen
